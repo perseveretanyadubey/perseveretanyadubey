@@ -17,8 +17,4 @@ Led projects ranging from predicting corn phenotypes using advanced machine lear
 Actively exploring opportunities to contribute my skills and experience to dynamic teams. Eager to make a meaningful impact at the intersection of machine learning and software engineering. Let's connect and explore how I can enhance your team's success.
 
 
-tdubey@ncsu.edu
-
-www.linkedin.com/in/tanyadubey23
-
-+1 (984)2861233
+Email me @ tdubey@ncsu.edu
