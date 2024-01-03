@@ -1,4 +1,4 @@
-# Tanya Dubey - Passionate Machine Learning Enthusiast and Full Stack Developer
+# Tanya Dubey - Machine Learning Enthusiast and Full Stack Developer
 
 
 ## About Me
