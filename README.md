@@ -18,5 +18,7 @@ Actively exploring opportunities to contribute my skills and experience to dynam
 
 
 tdubey@ncsu.edu
+
 www.linkedin.com/in/tanyadubey23
+
 +1 (984)2861233
