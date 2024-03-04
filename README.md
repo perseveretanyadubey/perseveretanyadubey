@@ -2,7 +2,7 @@
 
 
 ## About Me
-Passionate about translating data into actionable insights, I am currently pursuing my MS in Electrical Engineering with Specialization in Machine Learning and Signal Processing. With over five years of experience, including roles as an IT Analyst and Systems Engineer at Tata Consultancy Services, I've contributed to Edge and Cloud based IoT Platforms.
+Passionate about translating data into actionable insights, I am currently pursuing my MS with a Specialization in Machine Learning and Signal Processing. With over five years of experience, including roles as an IT Analyst and Systems Engineer at Tata Consultancy Services, I've contributed to Edge and Cloud based IoT Platforms.
 
 ## Educational Background
 My coursework encompasses specialized subjects such as Pattern Recognition, Automated Learning and Data Analysis, Neural Networks, Experimental Statistics for Engineers, and Computer Networks and Security.
